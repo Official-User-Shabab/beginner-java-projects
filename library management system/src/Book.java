@@ -13,7 +13,8 @@ public class Book {
         this.genre = genre;
         this.available = available;
         
-        System.out.printf("A new book object has been made! Title: %s %n", title);
+        System.out.printf("A new book object has been made! Book ID: %d %n", bookId);
+        System.out.println("");
     }
     
     public String getBookDetails() {return "hi";}
