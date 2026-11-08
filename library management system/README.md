@@ -224,9 +224,9 @@ The objective is not just to make the system work, but to understand the Java co
 - [x] Make all class attributes `private`.
 - [x] Understand the difference between `private` and `public`.
 - [x] Implement getters and setters.
-- [ ] Understand why direct access to object attributes should be restricted.
-- [ ] Add basic validation to setters where appropriate.
-- [ ] Experiment with modifying object attributes through public methods.
+- [x] Understand why direct access to object attributes should be restricted.
+- [x] Add basic validation to setters where appropriate.
+- [x] Experiment with modifying object attributes through public methods.
 
 **Milestone:** Your Book and Member classes follow basic encapsulation principles.
 
