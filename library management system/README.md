@@ -188,14 +188,14 @@ The objective is not just to make the system work, but to understand the Java co
 
 **Learning objectives:** Java syntax, variables, data types, methods and basic program structure.
 
-- [x]Create a new Java project in IDE.
-- [x]Create a GitHub repository for the project.
-- [x]Create the `Main.java` class.
-- [x]Print a welcome message for the Library Management System.
-- [x]Practise declaring variables using different data types.
-- [x]Practise using `if`, `else` and `switch` statements.
-- [x]Practise using `for` and `while` loops.
-- [x]Create simple methods and call them from `Main`.
+- [x] Create a new Java project in IDE.
+- [x] Create a GitHub repository for the project.
+- [x] Create the `Main.java` class.
+- [x] Print a welcome message for the Library Management System.
+- [x] Practise declaring variables using different data types.
+- [x] Practise using `if`, `else` and `switch` statements.
+- [x] Practise using `for` and `while` loops.
+- [x] Create simple methods and call them from `Main`.
 
 **Milestone:** A working Java program that displays a welcome message and a basic menu.
 
