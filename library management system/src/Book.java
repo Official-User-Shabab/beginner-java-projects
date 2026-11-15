@@ -17,6 +17,10 @@ public class Book {
         System.out.println("");
     }
     
+    public int getBookId() {
+        return this.bookId;
+    }
+    
     // fully lists out book's details
     public void getBookDetails() {
         System.out.println("");
