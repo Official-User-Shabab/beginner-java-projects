@@ -12,6 +12,10 @@ public class Member {
         this.phoneNumber = phoneNumber;
     }
     
+    public int getMemberId() {
+        return this.memberId;
+    }
+    
     public void getMemberDetails() {
         System.out.println("");
         System.out.println("-----MEMBER DETAILS-----");
