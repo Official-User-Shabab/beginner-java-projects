@@ -234,15 +234,15 @@ The objective is not just to make the system work, but to understand the Java co
 
 **Learning objectives:** Java Collections, ArrayLists and iteration.
 
-- [ ] Learn what an ArrayList is and why it is useful.
-- [ ] Create an `ArrayList<Book>`.
-- [ ] Add multiple Book objects to the ArrayList.
-- [ ] Display all books using a loop.
-- [ ] Remove a book from the collection.
-- [ ] Search for a book by its ID or title.
-- [ ] Create an `ArrayList<Member>`.
-- [ ] Add, remove and display members.
-- [ ] Practise using `.add()`, `.remove()`, `.get()`, `.size()` and `.contains()`.
+- [x] Learn what an ArrayList is and why it is useful.
+- [x] Create an `ArrayList<Book>`.
+- [x] Add multiple Book objects to the ArrayList.
+- [x] Display all books using a loop.
+- [x] Remove a book from the collection.
+- [x] Search for a book by its ID or title.
+- [x] Create an `ArrayList<Member>`.
+- [x] Add, remove and display members.
+- [x] Practise using `.add()`, `.remove()`, `.get()`, `.size()` and `.contains()`.
 
 **Milestone:** You can store, retrieve, search and remove multiple objects using ArrayLists.
 
